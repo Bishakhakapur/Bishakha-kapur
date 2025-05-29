@@ -32,6 +32,11 @@ Aspiring Data Analyst / B.com (Hons) / Skilled in Excel, SQL, Tableau / Learning
 
 ### 📈 Featured Projects
 
+### fnp sales dashboard (Excel)
+- implemented data cleaning and transformation to prepare raw sales, orders, and customer data for accurate analysis.
+- created a dynamic dashboard showcasing monthly sales trend, product performance, and regional customer distribution.
+- https://1drv.ms/x/c/480aa7162bc6ad70/ER21cyzmRvNOrJSPOgYw11YB_z0e-nOZCJF6YXq10ClleQ?e=TmUD9a
+
 #### 🔹 Sales Dashboard (Excel & Tableau)
 - 📊 Designed an interactive dashboard for sales trends and KPIs.
 - 🧩 Tools: Excel Pivot Tables, Tableau Visualizations.
