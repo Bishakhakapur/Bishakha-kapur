@@ -57,7 +57,7 @@ Aspiring Data Analyst / B.com (Hons) / Skilled in Excel, SQL, Tableau / Learning
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href=www.linkedin.com/in/bishakha-kapur-605181317<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bishakha-kapur-605181317"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bishakhakapur7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
